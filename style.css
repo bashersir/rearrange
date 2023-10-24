@@ -5,7 +5,11 @@ h1{
 }
 .des{
     text-align: center;
-    margin: 0 auto;}
+    margin: 0 auto;
+}
+.sentence {
+    cursor: pointer;
+}
 .rearrange {
     text-align: left;
     margin: 0 auto;
