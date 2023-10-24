@@ -8,3 +8,7 @@ if (firstAns == a) {
   greeting = "Good evening";
 }
 document.getElementById("demo").innerHTML = greeting;
+
+function r1(){
+  document.getElementById("demo").innerHTML = "g";
+}
