@@ -4,13 +4,14 @@ body{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 100vh;
+    height: 130vh;
 }
 h1{
     color: rgb(7, 7, 7);
     text-align: center;
     font: Sans serif;
     font-size: 20px;
+    padding-top: 15px;
 }
 .des{
     text-align: center;
