@@ -6,13 +6,6 @@ body{
     background-repeat: no-repeat;
     height: 100vh;
 }
-img{
-    width: 5.5rem;
-    height: 5.2rem;
-    border-radius: 50%;
-}
-.img{
-    position: fixed;
 h1{
     color: rgb(7, 7, 7);
     text-align: center;
